@@ -3,4 +3,4 @@
 Next.jsのページ遷移時にFramer Motionでアニメーションを付与するサンプルです。
 
 ## 解説記事
-https://sho-ts.net/posts/use-framer-motion
+https://sho-ts.net/posts/next-with-framer-motion
