@@ -1,4 +1,4 @@
-import { FC, Fragment, ReactNode } from 'react';
+import { FC, ReactNode } from 'react';
 import styles from '../styles/Heading.module.css';
 
 type Props = {
