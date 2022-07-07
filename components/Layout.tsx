@@ -12,7 +12,7 @@ const Layout: FC<Props> = ({ children }) => {
       <div className={styles.Container}>{children}</div>
       <footer className={styles.Footer}>
         <a className={styles.Footer__Text} href="https://github.com/sho-ts">
-          sho-ts
+          code by sho-ts
         </a>
       </footer>
     </Fragment>
