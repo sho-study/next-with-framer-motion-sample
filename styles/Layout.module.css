@@ -1,0 +1,33 @@
+.Header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  font-weight: bold;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+}
+
+.Container {
+  margin: 60px auto 0;
+  max-width: 1000px;
+  min-height: calc(100vh - 120px);
+  padding: 16px;
+}
+
+.Footer {
+  background-color: #333;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer__Text {
+  color: #fff;
+  text-decoration: none;
+}
